@@ -1,0 +1,6 @@
+C:\Users\1\Documents\Visual Studio 2012\Projects\Ivan\Ivan\bin\Debug\Ivan.exe.config
+C:\Users\1\Documents\Visual Studio 2012\Projects\Ivan\Ivan\obj\Debug\Ivan.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\Ivan\Ivan\bin\Debug\Ivan.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\Ivan\Ivan\bin\Debug\Ivan.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\Ivan\Ivan\obj\Debug\Ivan.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\Ivan\Ivan\obj\Debug\Ivan.pdb
